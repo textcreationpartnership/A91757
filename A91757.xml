@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Wonderful news, from the North: being a true and perfect relation, of severall strange and wonderful apparitions seen in the ayr, between Madely and Whitmore, in the county palatine of Chester. Shewing, how there appeared a dark colud over the sun, and immediatly after two great armies of men were seen in battle array, with drums, trumpets, and canons ready mounted, who seemed to have a terrible and bloudy fight. Also, the coming in of certain birds with wings like angels, after the battle was ended, with a description of their several colours, and what hapned. This relation was taken by the minister of Madely, and the truth thereof verified by Mrs. Holt of Oakers Hill, who with her maid, were eye-witnesses hereof.</title>
+            <author>Radmore, William, fl. 1651.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91757</idno>
+            <idno type="STC">Wing R130</idno>
+            <idno type="STC">Thomason E628_16</idno>
+            <idno type="STC">ESTC R206572</idno>
+            <idno type="EEBO-CITATION">99865696</idno>
+            <idno type="PROQUEST">99865696</idno>
+            <idno type="VID">165852</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91757)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165852)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 96:E628[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Wonderful news, from the North: being a true and perfect relation, of severall strange and wonderful apparitions seen in the ayr, between Madely and Whitmore, in the county palatine of Chester. Shewing, how there appeared a dark colud over the sun, and immediatly after two great armies of men were seen in battle array, with drums, trumpets, and canons ready mounted, who seemed to have a terrible and bloudy fight. Also, the coming in of certain birds with wings like angels, after the battle was ended, with a description of their several colours, and what hapned. This relation was taken by the minister of Madely, and the truth thereof verified by Mrs. Holt of Oakers Hill, who with her maid, were eye-witnesses hereof.</title>
+                  <author>Radmore, William, fl. 1651.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated and signed at end: Ap. 29. 1651. Wi: Radmore.</note>
+                  <note>Annotation on Thomason copy: "May. 14th.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Omens --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165852:1" rendition="simple:additions"/>
+            <p>Wonderful News, from the NORTH: Being a true and perfect Relation, of ſeverall ſtrange and Wonderful Apparitions ſeen in the Ayr, between <hi>Madely</hi> and <hi>Whitmore,</hi> in the County Palatine of <hi>Cheſter.</hi>
+            </p>
+            <p>Shewing, how there appeared a dark Cloud over the Snn, and immediatly after two great Armies of men were ſeen in battle Array, with Drums, Trum<g ref="char:EOLhyphen"/>pets, and Canons ready mounted, who ſeem<g ref="char:EOLhyphen"/>ed to have a terrible and bloudy fight.</p>
+            <p>Alſo, the coming in of certain Birds with wings like angels, after the Battle was ended, with a deſcription of their ſeveral colours, and what hapned.</p>
+            <p>
+               <hi>This Relation was taken by the Miniſter of</hi> Madely, <hi>and the truth thereof verified by</hi> Mrs. Holt <hi>of</hi> Oakers Hill, <hi>who with her Maid, were eye-witneſſes hereof.</hi>
+            </p>
+            <figure>
+               <figure>
+                  <figDesc>sun</figDesc>
+                  <p>North</p>
+                  <p>South</p>
+                  <p>East</p>
+                  <p>West</p>
+                  <p>
+                     <gap reason="symbol" extent="1 letter">
+                        <desc>〈☐〉</desc>
+                     </gap>m <gap reason="symbol" extent="1 letter">
+                        <desc>〈☐〉</desc>
+                     </gap>ia South</p>
+               </figure>
+               <figure>
+                  <figDesc>moon</figDesc>
+                  <p>North</p>
+               </figure>
+            </figure>
+            <p>LONDON, Printed for <hi>George Horton.</hi> 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165852:2"/>
+            <pb n="1" facs="tcp:165852:2"/>
+            <head>Wonderful NEWES FROM the NORTH.</head>
+            <opener>
+               <salute>DEAR BROTHER,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>Y true love and reſpects to you and your wife, hoping you are both in good health, though I have not heard fro you a long time; which hath made me to fear either you are not well, or that you are removed forth of the City, or you have taken ſomething unkindely from me; that after the writing of ſo
+<pb n="2" facs="tcp:165852:3"/> many Letters, I could not hear from you, except my Letters miſcarried; but I hope I have taken ſuch a courſe, that this vvill come to your hand, vvhich if it do, I deſire to hear from you; and the rather, becauſe of our a<g ref="char:EOLhyphen"/>ged mother, vvho takes it very heavily. I entended to have been in London a Week vvithin May, but upon further conſideration, I have procraſtinated my journey until toward Midſummer, about vvhich time, if providence per<g ref="char:EOLhyphen"/>mit, I entend to be there.</p>
+            <p>I ſhall relate to you, a ſtrange Ap<g ref="char:EOLhyphen"/>parition that vvas ſeen near to us, on Wedneſday the 11 of this inſtant, at a place called the Highway-houſe, be<g ref="char:EOLhyphen"/>tween Madely and Whitmore; The Woman to whom it appeared, was
+<pb n="3" facs="tcp:165852:3"/> and is a Religious Woman, and come of a godly Family, the manner thus: On the ſaid day, the Woman ſitting in the door with a little Girl in her arms, ſhe perceived the Sun to ſhine exceed<g ref="char:EOLhyphen"/>ing red, and caſting her eys upwards, ſhe beheld a dark body over the ſun, about the bignes of a half moon, and in a ſhort ſpace, the ſaid body divided into ſeveral parts, ſeeming numberleſs to her view, about the bigneſs of ſmall Pewter diſh<g ref="char:EOLhyphen"/>es, which came ſwiftly towards her, and immediatly the Court about the houſe ſeemed to be filled vvith armed Hands and Gantlets, vvith ſwords; glitter<g ref="char:EOLhyphen"/>ing and fighting (in their imagination) vvith another as great an Army, and it ſeemed to their view to be in the ayr above them. At the ſight whereof, ſhe
+<pb n="4" facs="tcp:165852:4"/> was amazed, and being greatly aſtoniſhed, ran into the houſe, having leſt behinde her a<g ref="char:EOLhyphen"/>another little Girle playing forth of the doors, her Maid and ſhe preſently betaking themſelvs to prayer, and after receiving ſome encou<g ref="char:EOLhyphen"/>ragement, they opened the door, and the Maid boldly ſtept forth, and took in the child (to her ſupoſition from amongſt them) which had no harm: But the numbers ſo encreaſed on both parties, that the Houſe became all darkned like night: Then when ſhe had got in her childe, ſhe went to prayer again, verily ſuppoſing her end to be near at hard: After which her Maid and ſhe looking forth, be<g ref="char:EOLhyphen"/>held infinite of Horſe legs and feet trampling, and great Canons and Ordnance on the other ſide of the Houſe rear'd up together, with their muzzels upward, and Houlſters hanging on them; this continued ſome ſpace and va<g ref="char:EOLhyphen"/>niſhed. Then ſhe opened the door and went forth, and ſaw and beheld the likeneſs of one man onely, ſtanding within the Court near to the more, and immediately there aroſe a little <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>loud or Vapon<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (as it were) forth of the
+<pb n="5" facs="tcp:165852:4"/> moto, from whence iſſued a Bird about the bigneſs of a Capon, with wings ſuch as an Angel is uſually portraicted with, and a ſecond and third followed and flew near to her and her Maid, ha<g ref="char:EOLhyphen"/>ving faces almoſt like Owls, and ſome<g ref="char:EOLhyphen"/>thing reſembling a man, and after they had hovered about a while, they vani<g ref="char:EOLhyphen"/>ſhed in a vapour or Cloud; Theſe birds were of able wiſh-red, or ſanguine co<g ref="char:EOLhyphen"/>lour, but the Men, Horſe, Swords, and Canons, all like fire.</p>
+            <p>I had almoſt forgot one paſſage, her Maid at firſt ſaw nothing, but after ſhe had uttered theſe words, Miſtris it may be the Lord wil not ſuffer me to behold what you do, ſhe immediatly ſaw the ſame! Oh who would not fear and love thee thou King of Saints, how unſear-chable
+<pb n="6" facs="tcp:165852:5"/> are thy ways, to poorhood<g ref="char:EOLhyphen"/>winckt mortals: You may hear this from many, but you may juſtifie what I write, to be the ſame relation which was taken by our Miniſter, and other Gentlemen that went to be inform'd of the truth hereof. The Gentlewoman who was a ſpectator of this ſtrange ap<g ref="char:EOLhyphen"/>parition, is one of Mr. Holts daughters of Oakers Hill. The Lord make us vviſe to fore-ſee vvhat he entends by ſuch his dealings, and enable us to hide our ſelves vvith him, vvho is the ſu<g ref="char:EOLhyphen"/>pream Commander of all Hoſts, both in Heaven and Earth: ſo prayeth</p>
+            <closer>
+               <signed>Your ever loving Brother, WI: RADMORE.</signed>
+               <dateline>
+                  <date>Ap. 29. 1651.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
